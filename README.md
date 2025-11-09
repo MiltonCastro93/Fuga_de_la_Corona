@@ -69,20 +69,10 @@ No hay combate directo: cada paso y cada ruido pueden marcar la diferencia entre
 <h3 align="left">📸 Capturas del Proyecto</h3>
 
 <p align="center">
-  <img src="https://github.com/MiltonCastro93/FugaDeLaCorona/blob/main/preview1.png" width="300" style="border-radius:10px; margin:10px" alt="Vista general del nivel"/>
-  <img src="https://github.com/MiltonCastro93/FugaDeLaCorona/blob/main/preview2.png" width="300" style="border-radius:10px; margin:10px" alt="IA patrullando zona"/>
-  <img src="https://github.com/MiltonCastro93/FugaDeLaCorona/blob/main/preview3.png" width="300" style="border-radius:10px; margin:10px" alt="Puzzle de platos"/>
+  <img src="https://github.com/MiltonCastro93/Fuga_de_la_Corona/blob/main/Captura%20de%20pantalla%202025-11-06%20103030.png" width="300" style="border-radius:10px; margin:10px" alt="Vista general del nivel"/>
 </p>
 
 ---
-
-<h3 align="center">🔗 Repositorio y Código</h3>
-
-<p align="center">
-  <a href="https://github.com/MiltonCastro93/FugaDeLaCorona" target="_blank">
-    👉 Ver Repositorio en GitHub
-  </a>
-</p>
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=MiltonCastro93.FugaDeLaCorona" alt="Visitas"/>
