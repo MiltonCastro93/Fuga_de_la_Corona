@@ -80,7 +80,7 @@ No hay combate directo: cada paso y cada ruido pueden marcar la diferencia entre
     </td>
     <td align="center">
       <img src="https://github.com/MiltonCastro93/Fuga_de_la_Corona/blob/main/Captura%20de%20pantalla%202025-11-09%20114520.png" width="300" style="border-radius:10px" alt="Enemigo"/>
-      <p><b>IA enemiga en acción</b></p>
+      <p><b>Jerarquía del enemigo</b></p>
     </td>
   </tr>
 </table>
