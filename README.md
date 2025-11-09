@@ -1,10 +1,6 @@
 <h1 align="center">🎮 Fuga de la Corona</h1>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MiltonCastro93.FugaDeLaCorona" alt="Visitas"/>
-</p>
-
-<p align="center">
   <i>Proyecto de videojuego de aventura, supervivencia y sigilo — desarrollado en Unity</i>
 </p>
 
@@ -72,8 +68,21 @@ No hay combate directo: cada paso y cada ruido pueden marcar la diferencia entre
 
 <h3 align="left">📸 Capturas del Proyecto</h3>
 
-<p align="center">
-  <img src="https://github.com/MiltonCastro93/Fuga_de_la_Corona/blob/main/Captura%20de%20pantalla%202025-11-06%20103030.png" width="300" style="border-radius:10px; margin:10px" alt="Vista general del nivel"/>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/MiltonCastro93/Fuga_de_la_Corona/blob/main/Captura%20de%20pantalla%202025-11-06%20103030.png" width="300" style="border-radius:10px" alt="Vista general del nivel"/>
+      <p><b>Vista general del nivel</b></p>
+    </td>
+    <td align="center">
+      <img src="https://github.com/MiltonCastro93/Fuga_de_la_Corona/blob/main/Captura%20de%20pantalla%202025-11-09%20114432.png" width="300" style="border-radius:10px" alt="SpriteMask"/>
+      <p><b>Uso de Sprite Mask</b></p>
+    </td>
+    <td align="center">
+      <img src="https://github.com/MiltonCastro93/Fuga_de_la_Corona/blob/main/Captura%20de%20pantalla%202025-11-09%20114520.png" width="300" style="border-radius:10px" alt="Enemigo"/>
+      <p><b>Jerarquía del enemigo</b></p>
+    </td>
+  </tr>
+</table>
 
 ---
