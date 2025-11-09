@@ -1,10 +1,6 @@
 <h1 align="center">🎮 Fuga de la Corona</h1>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MiltonCastro93.FugaDeLaCorona" alt="Visitas"/>
-</p>
-
-<p align="center">
   <i>Proyecto de videojuego de aventura, supervivencia y sigilo — desarrollado en Unity</i>
 </p>
 
